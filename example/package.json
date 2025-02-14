@@ -18,9 +18,9 @@
     "format": "prettier --ignore-path .gitignore \"src/**/*.+(js)\" --write"
   },
   "devDependencies": {
-    "@babel/core": "7.18.0",
-    "@babel/plugin-transform-runtime": "7.18.0",
-    "@babel/preset-env": "7.18.0",
+    "@babel/core": "7.26.9",
+    "@babel/plugin-transform-runtime": "7.26.9",
+    "@babel/preset-env": "7.26.9",
     "babel-loader": "8.2.5",
     "clean-webpack-plugin": "4.0.0",
     "cross-env": "^7.0.3",
@@ -46,7 +46,7 @@
     "webpack-dev-server": "4.9.0"
   },
   "dependencies": {
-    "@babel/runtime-corejs3": "7.18.0",
+    "@babel/runtime-corejs3": "7.26.9",
     "axios": "0.27.2",
     "core-js": "3.22.5",
     "dotenv": "16.0.1"
